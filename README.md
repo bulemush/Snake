@@ -1,0 +1,2 @@
+# Snake
+useless project
